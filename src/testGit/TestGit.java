@@ -9,7 +9,7 @@ public class TestGit {
 		this.gitFromScratch = parametre;
 	}
 	public String returntest(){
-		return this.gitFromScratch
+		return this.gitFromScratch;
 }
 }
 

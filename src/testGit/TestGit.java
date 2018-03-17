@@ -11,5 +11,11 @@ public class TestGit {
 	public String returnTest(){
 		return this.gitFromScratch;
 }
+	
+		public static void main(String[] args) {
+
+
+	}
+
 }
 

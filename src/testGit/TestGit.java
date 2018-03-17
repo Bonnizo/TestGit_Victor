@@ -8,5 +8,8 @@ public class TestGit {
 	public TestGit(String parametre) {
 		this.gitFromScratch = parametre;
 	}
+	public String returntest(){
+		return this.gitFromScratch
+}
 }
 

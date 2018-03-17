@@ -8,13 +8,4 @@ public class TestGit {
 		this.gitFromScratch = parametre;
 	}
 
-	public String returnTest() {
-		return this.gitFromScratch;
-	}
-
-	public static void main(String[] args) {
-
-		System.out.println("hello");
-
-	}
 }
